@@ -1,0 +1,5 @@
+.greeting {
+    display: flex;
+    justify-content: center;
+    color: rgb(94, 86, 104);
+}

@@ -1,0 +1,30 @@
+.counter {
+    text-align: center;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.counter h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.counter .input {
+    padding: 10px;
+    font-size: 1em;
+    margin-bottom: 20px;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.counter .btn {
+    padding: 10px 20px;
+    font-size: 1em;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+}

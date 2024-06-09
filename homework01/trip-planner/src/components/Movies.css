@@ -1,0 +1,15 @@
+.movies{
+    display: flex;
+    justify-content: center;
+    color: rgb(97, 90, 105);
+
+}
+
+.listMovies{
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+    font-size: larger;
+    color: rgb(106, 97, 116);
+
+}

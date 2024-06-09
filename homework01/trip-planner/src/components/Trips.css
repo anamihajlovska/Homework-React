@@ -1,0 +1,14 @@
+.trips {
+    display: flex;
+    justify-content: center;
+    color: rgb(133, 121, 146);
+}
+
+.listTrips{
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+    font-size: larger;
+    color: rgb(133, 121, 146);
+    list-style-type: none;
+}
