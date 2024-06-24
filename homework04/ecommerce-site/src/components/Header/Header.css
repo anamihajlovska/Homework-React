@@ -1,0 +1,36 @@
+.divHeading {
+  background: linear-gradient(to bottom, #9cbccc, #ffefe4);
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid rgb(176, 170, 170);
+  margin-bottom: 50px;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  padding: 20%;
+}
+
+.navLinks {
+  display: flex;
+  gap: 15px;
+  list-style-type: none;
+}
+
+.navLinks a {
+  text-decoration: none;
+}
+
+.activeLink {
+  color: #467aa3;
+}
+
+.pendingLink {
+  color: #5c5d60;
+}
